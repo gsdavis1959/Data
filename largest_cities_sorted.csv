@@ -1,0 +1,1851 @@
+,cluster,name,country.etc,pop
+0,0,Moscow,Russia,10472629
+1,1,Karachi,Pakistan,11969284
+2,2,Hargeysa,Somalia,500710
+3,3,'Adale,Somalia,5492
+4,4,'Afif,Saudi Arabia,41731
+5,5,Dubai,United Arab Emirates,1182439
+6,6,Addis Abeba,Ethiopia,2823167
+7,7,ad-Dammam,Saudi Arabia,793553
+8,8,Jibuti,Djibouti,633884
+9,9,Bosaso,Somalia,75772
+10,10,San'a,Yemen,1921589
+11,11,Habban,Yemen,22424
+12,12,ad-Damir,Sudan,109740
+13,13,Riyadh,Saudi Arabia,4328067
+14,14,'Ayn Qazzam,Algeria,66455
+15,15,'Ayn Salah,Algeria,51599
+16,16,'Ayn as-Safra,Algeria,66225
+17,17,'Ayun,Mauritania,22521
+18,18,'Elbur,Somalia,9211
+19,19,'Eldere,Somalia,27093
+20,20,'Erigabo,Somalia,34530
+21,21,Jiddah,Saudi Arabia,2934584
+22,22,Qaqortoq,Greenland,3269
+23,23,Upernavik,Greenland,1098
+24,24,Ilulissat,Greenland,4352
+25,25,Lagos,Nigeria,9020089
+26,26,Abadeh,Iran,58138
+27,27,Belem,Brazil,1436287
+28,28,Sao Paulo,Brazil,10059502
+29,29,Abakan,Russia,168024
+30,30,Abalak,Niger,13873
+31,31,Abancay,Peru,56262
+32,32,Temaraia,Kiribati,2639
+33,33,Santa Cruz,Bolivia,1404609
+34,34,Tokyo,Japan,8372440
+35,35,Mexico City,Mexico,8659409
+36,36,Qaragandy,Kazakhstan,409151
+37,37,Abaza,Russia,18112
+38,38,Vancouver,Canada,1839314
+39,39,Abeche,Chad,75855
+40,40,Abidjan,Ivory Coast,3796677
+41,41,Jaya Pura,Indonesia,137808
+42,42,Hamis Musayt,Saudi Arabia,402940
+43,43,Abilene,USA,113888
+44,44,Cairo,Egypt,7836243
+45,45,Kingston,Jamaica,585300
+46,46,Salvador,Brazil,2762758
+47,47,Havanna,Cuba,2163132
+48,48,Santo Domingo,Dominican Republic,2253437
+49,49,Umm Durman,Sudan,2970099
+50,50,Abu Dhabi,United Arab Emirates,619316
+51,51,al-Ubayyid,Sudan,410941
+52,52,Dayr az-Zawr,Syria,252588
+53,53,ad-Dillinj,Sudan,37763
+54,54,Manila,Philippines,10546511
+55,55,Dakar,Senegal,2406598
+56,56,Imperatriz,Brazil,218139
+57,57,Merida,Mexico,728271
+58,58,Fortaleza,Brazil,2349632
+59,59,Caracas,Venezuela,1808937
+60,60,Buenos Aires,Argentina,11595183
+61,61,El Alto,Bolivia,872211
+62,62,Nicosia,Cyprus,202488
+63,63,Seoul,Korea South,10409345
+64,64,Achinsk,Russia,117294
+65,65,Mamoudzou,Mayotte,58089
+66,66,Toronto,Canada,4670783
+67,67,Monclova,Mexico,196251
+68,68,Adamstown,Pitcairn,51
+69,69,Las Palmas,Canary Islands,381989
+70,70,Nara,Mali,29102
+71,71,Adelaide,Australia,1076969
+72,72,Durban,South Africa,3244028
+73,73,Aden,Yemen,625361
+74,74,Jakarta,Indonesia,8556798
+75,75,Arua,Uganda,59195
+76,76,San Juan,Puerto Rico,417154
+77,77,Chihuahua,Mexico,718551
+78,78,Obregon,Mexico,259506
+79,79,Adrar,Algeria,93487
+80,80,al-Junaynah,Sudan,170618
+81,81,Kili,Marshall Islands,883
+82,82,Cheju,Korea South,338490
+83,83,Faaa,French Polynesia,29740
+84,84,Apia,Samoa,40805
+85,85,Mogadishu,Somalia,2723378
+86,86,Kismayo,Somalia,245636
+87,87,Serra Talhada,Brazil,51511
+88,88,Agadez,Niger,91600
+89,89,Agadir,Morocco,718498
+90,90,Tamuning,Guam,11328
+91,91,Jimma,Ethiopia,132360
+92,92,Male,Maldives,87154
+93,93,Nogales,Mexico,192161
+94,94,Brasilia,Brazil,2260541
+95,95,Manihi,French Polynesia,802
+96,96,Nairobi,Kenya,2864667
+97,97,Auckland,New Zealand,429918
+98,98,Bombay,India,12883645
+99,99,Mata'utu,Wallis and Futuna,1310
+100,100,Waspan,Nicaragua,6497
+101,101,Ahumada,Mexico,9476
+102,102,Ahwar,Yemen,6328
+103,103,Dili,East Timor,163305
+104,104,Wotje,Marshall Islands,855
+105,105,Cochabamba,Bolivia,932871
+106,106,Koror,Palau,11458
+107,107,Aitape,Papua New Guinea,5667
+108,108,Aizawl,India,274875
+109,109,Cagliari,Italy,159169
+110,110,Ajdabiya,Libya,140558
+111,111,Rita,Marshall Islands,21270
+112,112,Almaty,Kazakhstan,1216378
+113,113,Shu,Kazakhstan,39748
+114,114,Shiraz,Iran,1279140
+115,115,Nukus,Uzbekistan,235306
+116,116,Aketi,Congo Democratic Republic,35698
+117,117,Volgograd,Russia,1010221
+118,118,Yekaterinburg,Russia,1285879
+119,119,Miyaly,Kazakhstan,6242
+120,120,Inuvik,Canada,3055
+121,121,Akmechet,Kazakhstan,167658
+122,122,Reykjavik,Iceland,114576
+123,123,Torshavn,Faroe Islands,13313
+124,124,Orenburg,Russia,550552
+125,125,Aksu,China,362266
+126,126,Pavlodar,Kazakhstan,329756
+127,127,Aksu,Kazakhstan,5455
+128,128,Oskemen,Kazakhstan,319854
+129,129,Aktau,Kazakhstan,166478
+130,130,Aktogay,Kazakhstan,3662
+131,131,Aktogay,Kazakhstan,4930
+132,132,Akyab,Myanmar,181172
+133,133,Karkaralinsk,Kazakhstan,8022
+134,134,Al Hoceima,Morocco,56282
+135,135,Rusu,Mauritania,64364
+136,136,San Jose,USA,897883
+137,137,Chicoutimi-Jonquiere,Canada,110582
+138,138,Albany,Australia,24338
+139,139,Portland,USA,542751
+140,140,Albany,USA,75510
+141,141,New York,USA,8124427
+142,142,Snug Corner,Bahamas,407
+143,143,Paramaribo,Suriname,224925
+144,144,Port Louis,Mauritius,156760
+145,145,Albuquerque,USA,494962
+146,146,Albury,Australia,109273
+147,147,Palma,Spain,381285
+148,148,Aldan,Russia,24326
+149,149,Alegrete,Brazil,78077
+150,150,Berezniki,Russia,165998
+151,151,Santarem,Brazil,189792
+152,152,Alexandria,USA,44933
+153,153,Aleysk,Russia,27851
+154,154,Orsk,Russia,245488
+155,155,Los Angeles,USA,3911500
+156,156,Alice Springs,Australia,26178
+157,157,Alice Town,Bahamas,950
+158,158,Jiagedagi,China,136811
+159,159,Conakry,Guinea,1970382
+160,160,Alindao,Central African Republic,14296
+161,161,Fort-de-France,Martinique,89233
+162,162,Rangoon,Myanmar,4572948
+163,163,Dallas,USA,1216543
+164,164,Monterrey,Mexico,1123777
+165,165,Almenara,Brazil,29633
+166,166,Alofi,Niue,627
+167,167,Singapore,Singapore,3601745
+168,168,Alotau,Papua New Guinea,12540
+169,169,Alta Floresta,Brazil,41499
+170,170,Cordoba,Argentina,1442911
+171,171,Altaj,Mongolia,18908
+172,172,Altamira,Brazil,72674
+173,173,Tampa,USA,328578
+174,174,Altay,China,141575
+175,175,Altoona,USA,46442
+176,176,Sao Luis,Brazil,935083
+177,177,Alyangula,Australia,1286
+178,178,Am Timan,Chad,29533
+179,179,Amahai,Indonesia,48255
+180,180,Hao,French Polynesia,1211
+181,181,Amarillo,USA,183295
+182,182,Mutuaura,French Polynesia,286
+183,183,Colombo,Sri Lanka,649496
+184,184,Antananarivo,Madagascar,1463754
+185,185,Ambanja,Madagascar,31399
+186,186,Mahajanga,Madagascar,158841
+187,187,Toamasina,Madagascar,212544
+188,188,Ambikapur,India,74578
+189,189,Ambilobe,Madagascar,15007
+190,190,Ambovombe,Madagascar,68698
+191,191,Ambon,Indonesia,367509
+192,192,Ambunti,Papua New Guinea,2137
+193,193,Des Moines,USA,192050
+194,194,Bangkok,Thailand,4935988
+195,195,Barabai,Indonesia,64249
+196,196,Amuri,Cook Islands,278
+197,197,Komsomolsk-na-Amure,Russia,273203
+198,198,Fakarava,French Polynesia,879
+199,199,El Tigre,Venezuela,155452
+200,200,Iraklion,Greece,138749
+201,201,Srinagar,India,996400
+202,202,Goiania,Brazil,1188787
+203,203,Farah,Afghanistan,44741
+204,204,Rairua,French Polynesia,485
+205,205,Vaitape,French Polynesia,4802
+206,206,Shanghai,China,15017783
+207,207,Anchorage,USA,279428
+208,208,Santiago,Chile,4893495
+209,209,Vallenar,Chile,45255
+210,210,Antalaha,Madagascar,34979
+211,211,Indianapolis,USA,771725
+212,212,Andevoranto,Madagascar,10773
+213,213,Nassau,Bahamas,231519
+214,214,Ebeye,Marshall Islands,9891
+215,215,Irkutsk,Russia,584442
+216,216,Angoche,Mozambique,76412
+217,217,Wewak,Papua New Guinea,17870
+218,218,Angra,Azores,11975
+219,219,Huaihua,China,127705
+220,220,Chongqing,China,4133663
+221,221,Ankang,China,133223
+222,222,Ankazoabo,Madagascar,26692
+223,223,Georgetown,Guyana,236878
+224,224,Mashhad,Iran,2387734
+225,225,Anshun,China,371158
+226,226,Arrecife,Canary Islands,54696
+227,227,Antofagasta,Chile,314606
+228,228,Willemstad,Netherlands Antilles,98339
+229,229,Antsiranana,Madagascar,84965
+230,230,Antsohihy,Madagascar,21918
+231,231,Jolo,Philippines,103907
+232,232,Novokuznetsk,Russia,536257
+233,233,Aouzou,Chad,1922
+234,234,Murmansk,Russia,313699
+235,235,Minneapolis,USA,364726
+236,236,Chicago,USA,2830144
+237,237,Aqjawajat,Mauritania,11156
+238,238,Aqtobe,Kazakhstan,263762
+239,239,Aquidauana,Brazil,35569
+240,240,Ara'ar,Saudi Arabia,151881
+241,241,Aracuai,Brazil,22306
+242,242,Araguaina,Brazil,117106
+243,243,Uberlandia,Brazil,580576
+244,244,Arakan,Myanmar,60809
+245,245,Aralsk,Kazakhstan,33315
+246,246,Walvis Bay,Namibia,54861
+247,247,Aranos,Namibia,3500
+248,248,Araouane,Mali,4014
+249,249,Melbourne,Australia,3780871
+250,250,Araripina,Brazil,39342
+251,251,Arawa,Papua New Guinea,40257
+252,252,Arbar,Marshall Islands,31
+253,253,Yazd,Iran,505037
+254,254,Kashan,Iran,310777
+255,255,Dunqula,Sudan,19518
+256,256,Tacna,Peru,289609
+257,257,Chaguanas,Trinidad and Tobago,73141
+258,258,Aripuana,Brazil,29464
+259,259,Ariquemes,Brazil,59205
+260,260,Arkalik,Kazakhstan,53489
+261,261,Arkhangelsk,Russia,340837
+262,262,Arlit,Niger,87819
+263,263,Armidale,Australia,22746
+264,264,Saint John's,Canada,109555
+265,265,Ponta Delgada,Azores,20053
+266,266,Arsenyev,Russia,61196
+267,267,Freetown,Bahamas,4128
+268,268,Artigas,Uruguay,42126
+269,269,Denver,USA,556575
+270,270,Arvajheer,Mongolia,20940
+271,271,Asau,Tuvalu,633
+272,272,Dubti,Ethiopia,27459
+273,273,Ascension,Bolivia,14978
+274,274,Nuevo Casas Grandes,Mexico,51531
+275,275,Asheville,USA,68654
+276,276,Asino,Russia,26742
+277,277,Assiniboia,Canada,2282
+278,278,Praia,Cape Verde,117342
+279,279,Astrakhan,Russia,501970
+280,280,Astrakhanka,Kazakhstan,6496
+281,281,Narin,Kyrgyzstan,41670
+282,282,Atafu,Tokelau,133
+283,283,Nuuk,Greenland,15243
+284,284,Atar,Mauritania,30897
+285,285,Atasu,Kazakhstan,12906
+286,286,Atbasar,Kazakhstan,34997
+287,287,Atlanta,USA,424096
+288,288,Cairns,Australia,161302
+289,289,Ati,Chad,24615
+290,290,Atikokan,Canada,3808
+291,291,Atiu,Cook Islands,156
+292,292,Cape Town,South Africa,3546429
+293,293,Villazon,Bolivia,30725
+294,294,Birkirkara,Malta,21713
+295,295,Attawapiskat,Canada,1383
+296,296,Atuona,French Polynesia,1788
+297,297,Atyrau,Kazakhstan,146862
+298,298,Seattle,USA,570430
+299,299,Montgomery,USA,197653
+300,300,Augusta-Richmond,USA,192376
+301,301,Honiara,Solomon Islands,57410
+302,302,Aur,Marshall Islands,331
+303,303,San Antonio,USA,1278171
+304,304,Bunbury,Australia,26488
+305,305,Avarua,Cook Islands,13645
+306,306,Moerai,French Polynesia,1052
+307,307,Phoenix,USA,1450884
+308,308,Awbari,Libya,44500
+309,309,Herat,Afghanistan,278209
+310,310,Awjilah,Libya,6790
+311,311,Awlaf,Algeria,25915
+312,312,Ayagoz,Kazakhstan,33180
+313,313,Udachnyy,Russia,15114
+314,314,Ayorou,Niger,26827
+315,315,Townsville,Australia,141227
+316,316,Ayteke,Kazakhstan,36207
+317,317,Olavarria,Argentina,86995
+318,318,Suva,Fiji,203028
+319,319,Babanusah,Sudan,30211
+320,320,Ha Noi,Vietnam,1452055
+321,321,Ho Chi Minh City,Vietnam,3496586
+322,322,Maracaibo,Venezuela,2000482
+323,323,Roxas,Philippines,15703
+324,324,Badr,Saudi Arabia,27895
+325,325,Bafoulabe,Mali,28690
+326,326,Bafq,Iran,32523
+327,327,Kerman,Iran,606967
+328,328,Bagran,Afghanistan,26322
+329,329,Bahia Blanca,Argentina,277423
+330,330,Baihe,China,63782
+331,331,Karamay,China,181871
+332,332,Bairiki,Kiribati,45982
+333,333,Lanzhou,China,1431171
+334,334,Bajanhongor,Mongolia,23456
+335,335,Puerto Princesa,Philippines,164856
+336,336,Pekan Baru,Indonesia,677741
+337,337,Lilongwe,Malawi,683477
+338,338,Sambalpur,India,165016
+339,339,Balikpapan,Indonesia,440687
+340,340,Balimo,Papua New Guinea,3697
+341,341,Balkanabat,Turkmenistan,87600
+342,342,Balkhash,Kazakhstan,81268
+343,343,Brisbane,Australia,1891999
+344,344,Balotra,India,69771
+345,345,Balsas,Brazil,71984
+346,346,Jiroft,Iran,119127
+347,347,Bamako,Mali,1342519
+348,348,Bambari,Central African Republic,32159
+349,349,Banda Aceh,Indonesia,259723
+350,350,Rantauprapat,Indonesia,104203
+351,351,Bandar Lampung,Indonesia,828507
+352,352,Kota Kinabalu,Malaysia,493650
+353,353,Bandar-e 'Abbas,Iran,323256
+354,354,Bandar-e Lengeh,Iran,22994
+355,355,Bandarbeyla,Somalia,14027
+356,356,Bandundu,Congo Democratic Republic,120797
+357,357,Bobo Dioulasso,Burkina Faso,366383
+358,358,Bangassou,Central African Republic,24300
+359,359,Makasar,Indonesia,1351104
+360,360,Man,Ivory Coast,142362
+361,361,Bangui,Central African Republic,547668
+362,362,Bani Walid,Libya,47805
+363,363,Kandi,Benin,113528
+364,364,Banjarmasin,Indonesia,581573
+365,365,Harare,Zimbabwe,1575127
+366,366,Lumphat,Cambodia,20040
+367,367,Banmo,Myanmar,48639
+368,368,Baoji,China,446972
+369,369,Baolan,Indonesia,45156
+370,370,Bouar,Central African Republic,27982
+371,371,Baotou,China,1301768
+372,372,Ha'il,Saudi Arabia,283360
+373,373,Kujbysev,Russia,48136
+374,374,Barawe,Somalia,27608
+375,375,Juazeiro do Norte,Brazil,230040
+376,376,Barcelona,Venezuela,441639
+377,377,Bardere,Somalia,43084
+378,378,Bardiyah,Libya,9397
+379,379,N'Djamena,Chad,737281
+380,380,Longyearbyen,Svalbard and Jan Mayen,1263
+381,381,Bariloche,Argentina,96804
+382,382,Quetta,Pakistan,759894
+383,383,Barmer,India,90961
+384,384,Novosibirsk,Russia,1417107
+385,385,Tangara da Serra,Brazil,59052
+386,386,Barra do Corda,Brazil,50011
+387,387,Barra do Garcas,Brazil,53269
+388,388,Barranca,Peru,5913
+389,389,Barreiras,Brazil,167866
+390,390,Memphis,USA,639736
+391,391,Baruun-Urt,Mongolia,15930
+392,392,Saransk,Russia,302918
+393,393,Basco,Philippines,7411
+394,394,Basoko,Congo Democratic Republic,44377
+395,395,Bassar,Algeria,144928
+396,396,Batangafo,Central African Republic,15392
+397,397,Sydney,Australia,4444513
+398,398,Bridgetown,Barbados,98725
+399,399,Wa,Ghana,80572
+400,400,Baton Rouge,USA,222217
+401,401,Bongao,Philippines,27275
+402,402,Palembang,Indonesia,1249543
+403,403,Bau Bau,Indonesia,84957
+404,404,Fort-Shevchenko,Kazakhstan,5359
+405,405,Kulsary,Kazakhstan,41303
+406,406,Baydabo,Somalia,132433
+407,407,Oktyabrsk,Kazakhstan,28375
+408,408,Sibay,Russia,62486
+409,409,Mari,Turkmenistan,115947
+410,410,Houston,USA,2043005
+411,411,Bealanana,Madagascar,17448
+412,412,Beaufort-West,South Africa,46277
+413,413,Beaumont,USA,110949
+414,414,Grande Prairie,Canada,42712
+415,415,Qincheng,China,177229
+416,416,Beihai,China,305015
+417,417,Beira,Mozambique,545724
+418,418,Pietersburg,South Africa,128014
+419,419,Medan,Indonesia,1757817
+420,420,Meiganga,Cameroon,83954
+421,421,Villa Maria,Argentina,93372
+422,422,Bella Vista,Paraguay,5696
+423,423,Saint Louis,USA,315546
+424,424,Omaha,USA,417809
+425,425,Belogorsk,Russia,65891
+426,426,Biysk,Russia,214412
+427,427,Morondava,Madagascar,37839
+428,428,Magnitogorsk,Russia,411685
+429,429,Beloyarskiy,Russia,19129
+430,430,Kogalym,Russia,58694
+431,431,Bend,USA,68945
+432,432,Benghazi,Libya,665689
+433,433,Bengkulu,Indonesia,324769
+434,434,Lobito,Angola,213887
+435,435,Bentiu,Sudan,7781
+436,436,Berbera,Somalia,252538
+437,437,Tarija,Bolivia,165638
+438,438,Beroroha,Madagascar,19156
+439,439,Krasnoyarsk,Russia,906949
+440,440,Bethanien,Namibia,10661
+441,441,Betioky,Madagascar,31977
+442,442,Beyla,Guinea,14008
+443,443,Beyneu,Kazakhstan,14341
+444,444,Samara,Russia,1127228
+445,445,Raipur,India,699683
+446,446,Bhawanipatna,India,65385
+447,447,Bhubaneswar,India,794039
+448,448,Tabuk,Saudi Arabia,469940
+449,449,Biak,Indonesia,41308
+450,450,Wufeng,China,102936
+451,451,Bikeer,Marshall Islands,8
+452,452,Enewetak,Marshall Islands,905
+453,453,Lesozavodsk,Russia,41648
+454,454,Billings,USA,101249
+455,455,Bilma,Niger,2285
+456,456,Biloela,Australia,6463
+457,457,Gulfport,USA,71400
+458,458,Bima,Indonesia,68030
+459,459,Binga,Congo Democratic Republic,61368
+460,460,Lusaka,Zambia,1306577
+461,461,Takaeang,Kiribati,763
+462,462,Bintulu,Malaysia,163380
+463,463,Birao,Central African Republic,10243
+464,464,Birjand,Iran,207947
+465,465,Birmingham,USA,229300
+466,466,Niamey,Niger,801297
+467,467,Birobidzhan,Russia,75773
+468,468,al-Qararah,Algeria,87352
+469,469,Bismarck,USA,56927
+470,470,Mongo,Chad,28386
+471,471,Manado,Indonesia,465650
+472,472,Roanoke,USA,90410
+473,473,Emerald,Australia,9408
+474,474,Blagoveshchensk,Russia,222010
+475,475,Sudbury,Canada,111118
+476,476,Springfield,USA,116725
+477,477,Half Tree Hollow,Saint Helena,786
+478,478,Kansas City,USA,441833
+479,479,Boa Vista,Brazil,244261
+480,480,Miami,USA,386740
+481,481,Montes Claros,Brazil,341562
+482,482,Bodaybo,Russia,15738
+483,483,George Town,Cayman Islands,30570
+484,484,Lulea,Sweden,45652
+485,485,Boende,Congo Democratic Republic,32800
+486,486,Khuis,Botswana,846
+487,487,Boise City,USA,193628
+488,488,Bokoro,Chad,15053
+489,489,Bokspits,Botswana,559
+490,490,Bolobo,Congo Democratic Republic,28471
+491,491,Bolshaya,Kazakhstan,4076
+492,492,Bom Jesus da Lapa,Brazil,41281
+493,493,Boma,Congo Democratic Republic,352061
+494,494,Siuna,Nicaragua,16339
+495,495,Bondo,Congo Democratic Republic,18132
+496,496,Bongandanga,Congo Democratic Republic,4195
+497,497,Bontang,Indonesia,104383
+498,498,Booue,Gabon,5919
+499,499,Maun,Botswana,51573
+500,500,Tyumen,Russia,521990
+501,501,Borzya,Russia,30084
+502,502,Bose,China,91161
+503,503,Bosobolo,Congo Democratic Republic,14874
+504,504,Bossangoa,Central African Republic,27157
+505,505,Shreveport,USA,196228
+506,506,Bouca,Central African Republic,13321
+507,507,Bougouni,Mali,36224
+508,508,Noumea,New Caledonia,94751
+509,509,Boundiali,Ivory Coast,39991
+510,510,Salt Lake City,USA,177318
+511,511,Bousso,Chad,13859
+512,512,Bowen,Australia,11251
+513,513,Nashville,USA,523547
+514,514,Bozoum,Central African Republic,41913
+515,515,Saint-Denis,Reunion,137787
+516,516,Bratsk,Russia,260245
+517,517,Kinshasa,Congo Democratic Republic,8096254
+518,518,Los Llanos de Aridane,Canary Islands,19885
+519,519,Tucurui,Brazil,79363
+520,520,Breves,Brazil,47590
+521,521,Bria,Central African Republic,29345
+522,522,Hobart,Australia,206640
+523,523,al-Bayad,Algeria,73273
+524,524,Tulsa,USA,379833
+525,525,Broken Hill,Australia,17033
+526,526,Broome,Australia,13415
+527,527,Brumado,Brazil,42274
+528,528,College Station,USA,80627
+529,529,Bu Jaydur,Western Sahara,41178
+530,530,Bu Tilimit,Mauritania,34078
+531,531,Buala,Solomon Islands,2726
+532,532,Buchanan,Liberia,26435
+533,533,Ulyanovsk,Russia,642257
+534,534,Bukama,Congo Democratic Republic,39057
+535,535,Padang,Indonesia,869534
+536,536,Erdenet,Mongolia,82137
+537,537,Lae,Papua New Guinea,75578
+538,538,Kikwit,Congo Democratic Republic,188244
+539,539,Bumba,Congo Democratic Republic,97631
+540,540,Bunia,Congo Democratic Republic,98242
+541,541,Buon Me Thuot,Vietnam,150439
+542,542,Bur,Sudan,27223
+543,543,Bur Gabo,Somalia,3158
+544,544,Bur Sudan,Sudan,474363
+545,545,Burgeo,Canada,1591
+546,546,Pirapora,Brazil,52108
+547,547,Raleigh,USA,350822
+548,548,Launceston,Australia,73074
+549,549,Smithers,Canada,5442
+550,550,Businga,Congo Democratic Republic,29558
+551,551,Buta,Congo Democratic Republic,46375
+552,552,Butaritari,Kiribati,2522
+553,553,Buy,Russia,26186
+554,554,Huambo,Angola,233287
+555,555,Soyo,Angola,74616
+556,556,Cabo San Lucas,Mexico,43562
+557,557,Caborca,Mexico,53475
+558,558,Caceres,Brazil,75030
+559,559,Cacoal,Brazil,56617
+560,560,Caluquembe,Angola,30964
+561,561,Guanambi,Brazil,59757
+562,562,Cagcaran,Afghanistan,33445
+563,563,Zabol,Iran,124809
+564,564,Calabozo,Venezuela,119862
+565,565,Calama,Chile,145288
+566,566,Calvinia,South Africa,8122
+567,567,Nha Trang,Vietnam,288122
+568,568,Uige,Angola,60988
+569,569,Funchal,Madeira,96893
+570,570,Kuito,Angola,114791
+571,571,Pelotas,Brazil,324704
+572,572,Camargo,Bolivia,4775
+573,573,Camopi,French Guiana,1332
+574,574,Senhor do Bonfim,Brazil,48186
+575,575,Culiacan,Mexico,591064
+576,576,Campo Grande,Brazil,745017
+577,577,Pucallpa,Peru,324869
+578,578,Liupanshui,China,168751
+579,579,Cap-aux-Meules,Canada,1692
+580,580,San Antonio,Northern Mariana Islands,5812
+581,581,Carmen,Mexico,144628
+582,582,Carnarvon,Australia,7502
+583,583,Carnarvon,South Africa,5768
+584,584,Melfort,Canada,5376
+585,585,Reno,USA,206626
+586,586,Petrolina,Brazil,200743
+587,587,Tucson,USA,525268
+588,588,Casper,USA,51808
+589,589,Catamarca,Argentina,193326
+590,590,Luanda,Angola,2875277
+591,591,Luena,Angola,21301
+592,592,Cecerleg,Mongolia,19305
+593,593,Cedar Rapids,USA,123243
+594,594,Matehuala,Mexico,68394
+595,595,Newcastle,Australia,500085
+596,596,Chabahar,Iran,49378
+597,597,Chipata,Zambia,88669
+598,598,Chagar,Mauritania,10856
+599,599,Sumbawanga,Tanzania,92250
+600,600,Chama,Zambia,4157
+601,601,Kitwe,Zambia,408337
+602,602,Taipei,Taiwan,2491662
+603,603,Urumqi,China,1538778
+604,604,Channel-Port aux Basques,Canada,4123
+605,605,Chapaevsk,Kazakhstan,7717
+606,606,Chibougamou,Canada,7638
+607,607,Chapleau,Canada,3029
+608,608,Charleston,USA,106372
+609,609,Charleston,USA,49804
+610,610,Charlotte,USA,607111
+611,611,Charters Towers,Australia,9766
+612,612,Naha,Japan,300639
+613,613,Chattanooga,USA,153617
+614,614,Chegdomyn,Russia,14710
+615,615,Chengde,China,454580
+616,616,Virginia Beach,USA,453884
+617,617,Xai-Xai,Mozambique,130418
+618,618,Kasama,Zambia,94772
+619,619,Chimore,Bolivia,5502
+620,620,Chinsali,Zambia,14566
+621,621,Chiredzi,Zimbabwe,28889
+622,622,Chisasibi,Canada,3536
+623,623,Chita,Russia,305492
+624,624,Mtwara,Tanzania,97863
+625,625,Chunskiy,Russia,16060
+626,626,Ciudad Bolivar,Venezuela,295604
+627,627,Ciudad Guayana,Venezuela,769243
+628,628,Clarence Town,Bahamas,1748
+629,629,Clyde River,Canada,1054
+630,630,Coari,Brazil,53186
+631,631,Cobija,Bolivia,28207
+632,632,Timmins,Canada,33319
+633,633,Cockburn Harbour,Turks and Caicos,811
+634,634,Spokane,USA,197513
+635,635,Coihaique,Chile,46077
+636,636,Cojbalsan,Mongolia,44880
+637,637,Cojr,Mongolia,10085
+638,638,Colesberg,South Africa,12387
+639,639,Colider,Brazil,22112
+640,640,Colinas,Brazil,26014
+641,641,Colonia,Micronesia,2100
+642,642,Columbia,USA,118020
+643,643,Columbia,USA,92756
+644,644,Comodoro Rivadavia,Argentina,141991
+645,645,Conceicao do Araguaia,Brazil,26786
+646,646,San Ignacio,Bolivia,24672
+647,647,Constitucion,Mexico,40816
+648,648,Contamana,Peru,14205
+649,649,Little Rock,USA,184323
+650,650,Cooma,Australia,6439
+651,651,Darwin,Australia,93417
+652,652,Freeport,Bahamas,47058
+653,653,Copiapo,Chile,130317
+654,654,Coquimbo,Chile,163689
+655,655,Puquio,Peru,10511
+656,656,Corner Brook,Canada,18387
+657,657,Coro,Venezuela,200445
+658,658,Coron,Philippines,8986
+659,659,Corpus Christi,USA,280808
+660,660,Corumba,Brazil,98348
+661,661,Coxim,Brazil,30763
+662,662,Cravo Norte,Colombia,4972
+663,663,Cruzeiro do Sul,Brazil,46821
+664,664,Garue,Mozambique,128038
+665,665,Mexicali,Mexico,606419
+666,666,Cuiaba,Brazil,531408
+667,667,Kuantan,Malaysia,382628
+668,668,Cutral Co,Argentina,47519
+669,669,Cuyo,Philippines,7777
+670,670,Da Nang,Vietnam,478703
+671,671,Dabba,Saudi Arabia,23053
+672,672,Warqla,Algeria,155618
+673,673,Dabola,Guinea,13014
+674,674,Dalanzadgad,Mongolia,15269
+675,675,Dalbandin,Pakistan,14953
+676,676,Dali,China,135458
+677,677,Dalian,China,2076179
+678,678,Dalnegorsk,Russia,37920
+679,679,Daltenganj,India,79314
+680,680,Danielskuil,South Africa,10094
+681,681,Jahrom,Iran,110216
+682,682,Darhan,Mongolia,73783
+683,683,Daru,Papua New Guinea,15717
+684,684,Geresk,Afghanistan,46011
+685,685,Datong,China,1061482
+686,686,Dauphin,Canada,8497
+687,687,Dawei,Myanmar,140475
+688,688,Yinchuan,China,480916
+689,689,Daxian,China,131122
+690,690,Hailar,China,215869
+691,691,Dayong,China,86342
+692,692,De Aar,South Africa,32394
+693,693,Huntsville,USA,169155
+694,694,Ghanzi,Botswana,12758
+695,695,Paulo Afonso,Brazil,85947
+696,696,Kananga,Congo Democratic Republic,470360
+697,697,Gambela,Ethiopia,45308
+698,698,Derzhavinsk,Kazakhstan,13936
+699,699,Hwange,Zimbabwe,32566
+700,700,Hithadhoo,Maldives,10012
+701,701,Diamantina,Brazil,37328
+702,702,Diapaga,Burkina Faso,26582
+703,703,Dibaya,Congo Democratic Republic,4687
+704,704,Dimapur,India,144030
+705,705,Diego de Almagro,Chile,18282
+706,706,Dien Bien,Vietnam,43450
+707,707,Kongan,Iran,16388
+708,708,Dire,Mali,10957
+709,709,Djambala,Congo,9800
+710,710,Perm,Russia,976116
+711,711,Doctor Pedro P. Pena,Paraguay,5274
+712,712,Dogondoutchi,Niger,32489
+713,713,Mandera,Kenya,36940
+714,714,Dolores,Argentina,25360
+715,715,Hue,Vietnam,292450
+716,716,Dong Hoi,Vietnam,31613
+717,717,Dong Tong,Cambodia,35905
+718,718,Dongosaru,Palau,20
+719,719,Dongsheng,China,101698
+720,720,Dori,Burkina Faso,39888
+721,721,Dothan,USA,62449
+722,722,Douentza,Mali,8068
+723,723,Dourados,Brazil,165222
+724,724,Dourbali,Chad,18079
+725,725,Druzhba,Kazakhstan,101
+726,726,Dryden,Canada,7012
+727,727,Dubbo,Australia,29149
+728,728,Dubuque,USA,57027
+729,729,Norilsk,Russia,125128
+730,730,Sa'o,Somalia,8051
+731,731,Duluth,USA,84472
+732,732,Duncan Town,Bahamas,69
+733,733,Dusa Marreb,Somalia,8831
+734,734,Kaili,China,152972
+735,735,Zhumysker,Kazakhstan,6866
+736,736,Pallasovka,Russia,17134
+737,737,Eau Claire,USA,63049
+738,738,Eauripik,Micronesia,115
+739,739,Ujae,Marshall Islands,427
+740,740,Edd,Eritrea,11434
+741,741,Edinburgh,Saint Helena,267
+742,742,Oklahoma City,USA,538141
+743,743,Oshakati,Namibia,34942
+744,744,Eivissa,Spain,43845
+745,745,El Daba,Egypt,27837
+746,746,El Harga,Egypt,60349
+747,747,Juarez,Mexico,1449006
+748,748,Hurghada,Egypt,100939
+749,749,Ras Gharib,Egypt,28976
+750,750,Satawal,Micronesia,530
+751,751,Parauapebas,Brazil,81609
+752,752,Toka,Marshall Islands,334
+753,753,Mili,Marshall Islands,390
+754,754,Ende,Indonesia,79377
+755,755,Wanxian,China,190254
+756,756,Weno,Micronesia,17766
+757,757,Eqalugaarsuit,Greenland,138
+758,758,Erenhot,China,16554
+759,759,Ereymentau,Kazakhstan,14250
+760,760,Errachidia,Morocco,82471
+761,761,Esperance,Australia,7781
+762,762,Essaouira,Morocco,71773
+763,763,Satowan,Micronesia,841
+764,764,Evansville,USA,114237
+765,765,Ewo,Congo,4971
+766,766,Eyl,Somalia,19282
+767,767,Fais,Micronesia,289
+768,768,Fakahima,French Polynesia,170
+769,769,Fakaofo,Tokelau,267
+770,770,Falam,Myanmar,5485
+771,771,Nomwin,Micronesia,762
+772,772,Fangatau,French Polynesia,126
+773,773,Fangaua,Tuvalu,314
+774,774,Wadi ad-Dawasir,Saudi Arabia,83509
+775,775,Faraulep,Micronesia,199
+776,776,Fargo,USA,92396
+777,777,Farmington,USA,44278
+778,778,Faya,Chad,13701
+779,779,We,New Caledonia,10424
+780,780,Fort Smith,USA,82304
+781,781,Zuwarat,Mauritania,45828
+782,782,Felipe Carrillo Puerto,Mexico,24149
+783,783,Gonabad,Iran,45470
+784,784,Korhogo,Ivory Coast,170641
+785,785,Labrador City,Canada,10517
+786,786,Figuig,Morocco,12803
+787,787,Filadelfia,Paraguay,8395
+788,788,Filingue,Niger,11821
+789,789,Finschhafen,Papua New Guinea,1077
+790,790,Flagstaff,USA,58490
+791,791,Flin Flon,Canada,5932
+792,792,Floriano,Brazil,48926
+793,793,Fort Frances,Canada,7834
+794,794,Fort MacPherson,Canada,1085
+795,795,Fort Nelson,Canada,4210
+796,796,Fort Saint James,Canada,2393
+797,797,Fort Wayne,USA,231147
+798,798,Fort William,UK,9611
+799,799,Fraser Lake,Canada,1275
+800,800,Fuerte Olimpo,Paraguay,2561
+801,801,Fukue,Japan,26434
+802,802,Gabait,Sudan,11314
+803,803,Gadamis,Libya,17092
+804,804,Gainesville,USA,127933
+805,805,Galiwinku,Australia,1343
+806,806,Galka'yo,Somalia,62365
+807,807,Tsogni,Gabon,10184
+808,808,Mbuji-Mayi,Congo Democratic Republic,896435
+809,809,Shakawe,Botswana,6019
+810,810,Ganyushkino,Kazakhstan,8427
+811,811,Ganzhou,China,253830
+812,812,Gao,Mali,38706
+813,813,Gaoual,Guinea,7437
+814,814,Garissa,Kenya,70871
+815,815,Garowe,Somalia,50910
+816,816,Gat,Libya,25172
+817,817,Gbadolite,Congo Democratic Republic,51608
+818,818,Kaiyuan,China,200778
+819,819,Gemena,Congo Democratic Republic,120238
+820,820,General Eugenio Alejandrino Garay,Paraguay,941
+821,821,General Pico,Argentina,58210
+822,822,Neuquen,Argentina,246515
+823,823,Genhe,China,74201
+824,824,George,South Africa,185562
+825,825,George Town,Bahamas,1068
+826,826,Georgetown,Saint Helena,533
+827,827,Geraldton,Australia,27531
+828,828,Geraldton,Canada,2379
+829,829,Lar,Iran,74262
+830,830,Hunza,Pakistan,16017
+831,831,Ginir,Ethiopia,17224
+832,832,Gizo,Solomon Islands,6293
+833,833,Sydney,Canada,32357
+834,834,Gladstone,Australia,31008
+835,835,Inverell,Australia,8455
+836,836,Goba,Ethiopia,34884
+837,837,Gobabis,Namibia,16993
+838,838,Gogrial,Sudan,39251
+839,839,Goose Green,Falkland Islands,82
+840,840,Metu,Ethiopia,30761
+841,841,Goroka,Papua New Guinea,18444
+842,842,Gorontalo,Indonesia,147966
+843,843,Gough Island,Saint Helena,4
+844,844,Goundam,Mali,8358
+845,845,Koumra,Chad,37078
+846,846,Goure,Niger,14987
+847,847,Reconquista,Argentina,92070
+848,848,Graaff-Reinet,South Africa,65999
+849,849,Grajau,Brazil,30929
+850,850,Saint-Pierre,Saint Pierre and Miquelon,6254
+851,851,Grand Forks,USA,48195
+852,852,Grand Island,USA,45052
+853,853,Grand Junction,USA,46350
+854,854,Maripasoula,French Guiana,6414
+855,855,Grande Cache,Canada,4072
+856,856,Great Falls,USA,55908
+857,857,Greenville,USA,55421
+858,858,Griffith,Australia,15551
+859,859,Grimsey,Iceland,106
+860,860,Grootfontein,Namibia,25064
+861,861,Grytviken,Falkland Islands,22
+862,862,Guachochi,Mexico,10616
+863,863,Riberalta,Bolivia,76823
+864,864,Guangyuan,China,213222
+865,865,Guaranta do Norte,Brazil,28817
+866,866,Guarapuava,Brazil,152724
+867,867,Gubkinskiy,Russia,20490
+868,868,Guelmim,Morocco,100699
+869,869,Kifah,Mauritania,70937
+870,870,Santa Isabel,Mexico,21826
+871,871,Guilin,China,670048
+872,872,Guiyang,China,1183692
+873,873,Swift Current,Canada,14683
+874,874,Gulu,Uganda,160225
+875,875,Tamworth,Australia,38685
+876,876,Gunung Stoli,Indonesia,25075
+877,877,Gurupi,Brazil,65352
+878,878,Gusinoozyorsk,Russia,25935
+879,879,Gwadar,Pakistan,53080
+880,880,Gweta,Botswana,4860
+881,881,Kaihua,China,65169
+882,882,Vinh,Vietnam,106865
+883,883,Najran,Saudi Arabia,270696
+884,884,Hafar al-Batin,Saudi Arabia,250645
+885,885,Kunming,China,1044356
+886,886,Haines Junction,Canada,1191
+887,887,Taiohae,French Polynesia,2221
+888,888,Hami,China,139579
+889,889,Warrnambool,Australia,30360
+890,890,Saint George,Bermuda,1811
+891,891,Hangaroa,Easter Island,584
+892,892,Hanzhong,China,147282
+893,893,Happy Valley-Goose Bay,Canada,6034
+894,894,Harper,Liberia,33557
+895,895,Harrisonburg,USA,41992
+896,896,Hatohobei,Palau,10
+897,897,Hattiesburg,USA,48728
+898,898,Nuku'alofa,Tonga,23733
+899,899,Havre-Saint-Pierre,Canada,2976
+900,900,Hay River,Canada,3064
+901,901,Haybar,Saudi Arabia,14758
+902,902,Hearst,Canada,4806
+903,903,Helensvale,Australia,17310
+904,904,Las Vegas,USA,553807
+905,905,Hereheretue,French Polynesia,72
+906,906,Hermosillo,Mexico,606231
+907,907,Hetian,China,114259
+908,908,Hidalgo,Mexico,102277
+909,909,High Level,Canada,3664
+910,910,Hihifo,Tonga,817
+911,911,Hikueru,French Polynesia,161
+912,912,Hilo,USA,43466
+913,913,Himora,Ethiopia,20219
+914,914,Hirara,Japan,34477
+915,915,Hobyo,Somalia,12815
+916,916,Hohhot,China,783645
+917,917,Honolulu,USA,386345
+918,918,Marathon,Canada,4686
+919,919,Hornsund,Svalbard and Jan Mayen,7
+920,920,Horta,Azores,6581
+921,921,Pollap,Micronesia,725
+922,922,Hovd,Mongolia,28301
+923,923,Xam Nua,Laos,39434
+924,924,Hudson Bay,Canada,1634
+925,925,Hukuntsi,Botswana,4563
+926,926,Humaita,Brazil,32934
+927,927,Waddan,Libya,28313
+928,928,Wichita,USA,356051
+929,929,Mount Hagen,Papua New Guinea,34911
+930,930,Iberia,Peru,4483
+931,931,Idaho Falls,USA,52431
+932,932,Woleai,Micronesia,897
+933,933,Ihosy,Madagascar,17419
+934,934,Ilebo,Congo Democratic Republic,109789
+935,935,Ilizi,Algeria,7021
+936,936,Illoqqortoormiut,Greenland,529
+937,937,Iringa,Tanzania,113474
+938,938,Impfondo,Congo,21325
+939,939,Imphal,India,224825
+940,940,Inari,Finland,6989
+941,941,Inderborskiy,Kazakhstan,13317
+942,942,Ingham,Australia,6276
+943,943,Maxixe,Mozambique,122740
+944,944,Inirida,Colombia,7562
+945,945,Inongo,Congo Democratic Republic,40991
+946,946,Inta,Russia,37485
+947,947,Invermere,Canada,2873
+948,948,Inyonga,Tanzania,12145
+949,949,Ipora,Brazil,28294
+950,950,Ippy,Central African Republic,16667
+951,951,Iqaluit,Canada,6364
+952,952,Iquique,Chile,231959
+953,953,Iquitos,Peru,453016
+954,954,Iranshahr,Iran,139146
+955,955,Irece,Brazil,65571
+956,956,Irgiz,Kazakhstan,4663
+957,957,Rochester,USA,209587
+958,958,Irtyshyk,Kazakhstan,9123
+959,959,Isangel,Vanuatu,1468
+960,960,Ishigaki,Japan,45093
+961,961,Ishim,Russia,67784
+962,962,Sterlitamak,Russia,268277
+963,963,Isiro,Congo Democratic Republic,129017
+964,964,Iskene,Kazakhstan,312
+965,965,Iskusuban,Somalia,5874
+966,966,Tasiilaq,Greenland,1833
+967,967,Itacoatiara,Brazil,46130
+968,968,Itaituba,Brazil,64772
+969,969,Vitoria da Conquista,Brazil,258862
+970,970,Sao Borja,Brazil,60052
+971,971,Itezhi-Tezhi,Zambia,8216
+972,972,Sisimiut,Greenland,5203
+973,973,Maraba,Brazil,148718
+974,974,Serov,Russia,98008
+975,975,Jabalpur,India,1049768
+976,976,Jabiru,Australia,1900
+977,977,Rondonopolis,Brazil,155476
+978,978,Jackson,USA,175085
+979,979,Jackson,USA,62552
+980,980,Wilmington,USA,93097
+981,981,Jacksonville,USA,809874
+982,982,Jaisalmer,India,70135
+983,983,Jambi,Indonesia,429038
+984,984,Janauba,Brazil,57298
+985,985,Januaria,Brazil,34717
+986,986,Jardim,Brazil,24329
+987,987,Ji-Parana,Brazil,102058
+988,988,Jask,Iran,16803
+989,989,Jatai,Brazil,78228
+990,990,Jiayuguan,China,124948
+991,991,Jinchang,China,146717
+992,992,Jinchengjiang,China,105286
+993,993,Jingdezhen,China,312350
+994,994,Jishou,China,103624
+995,995,Joao Pinheiro,Brazil,27414
+996,996,Jodhpur,India,940513
+997,997,Johnson City,USA,59183
+998,998,Jonesboro,USA,59233
+999,999,Joplin,USA,47060
+1000,1000,Juba,Sudan,168159
+1001,1001,Juina,Brazil,38777
+1002,1002,Salta,Argentina,523878
+1003,1003,Kongolo,Congo Democratic Republic,32180
+1004,1004,Kabinda,Congo Democratic Republic,61002
+1005,1005,Kalengwa,Zambia,7765
+1006,1006,Sandi,Sudan,54580
+1007,1007,Livingstone,Zambia,111530
+1008,1008,Kaduqli,Sudan,90186
+1009,1009,Kaga-Bandoro,Central African Republic,57078
+1010,1010,Kahnuj,Iran,46898
+1011,1011,Mongu,Zambia,54370
+1012,1012,Omsk,Russia,1127864
+1013,1013,Kalat,Pakistan,27307
+1014,1014,Kalemie,Congo Democratic Republic,151854
+1015,1015,Kalgoorlie-Boulder,Australia,37806
+1016,1016,Kindu,Congo Democratic Republic,139257
+1017,1017,Tabora,Tanzania,148677
+1018,1018,Likasi,Congo Democratic Republic,436642
+1019,1019,Penza,Russia,510851
+1020,1020,Kamina,Congo Democratic Republic,74103
+1021,1021,Kampene,Congo Democratic Republic,38005
+1022,1022,Kandrian,Papua New Guinea,1045
+1023,1023,Kangaba,Mali,17568
+1024,1024,Kangerdlinerk,Canada,2368
+1025,1025,Kangerlussuaq,Greenland,454
+1026,1026,Kaniama,Congo Democratic Republic,29630
+1027,1027,Kankan,Guinea,115554
+1028,1028,Kansanshi,Zambia,42123
+1029,1029,Kaoma,Zambia,14596
+1030,1030,Kapit,Malaysia,16209
+1031,1031,Kapoeta,Sudan,7127
+1032,1032,Kapuskasing,Canada,9358
+1033,1033,Kaputa,Zambia,2754
+1034,1034,Karabas,Kazakhstan,2616
+1035,1035,Taldikorgan,Kazakhstan,107533
+1036,1036,Karazhal,Kazakhstan,13516
+1037,1037,Karagayly,Kazakhstan,7150
+1038,1038,Karakol,Kyrgyzstan,70675
+1039,1039,Warmbad,Namibia,6733
+1040,1040,Karasuk,Russia,28544
+1041,1041,Karaul,Kazakhstan,5214
+1042,1042,Karpathos,Greece,2286
+1043,1043,Roebourne,Australia,19447
+1044,1044,Zhezkazgan,Kazakhstan,104438
+1045,1045,Kartaly,Russia,28048
+1046,1046,Kasempa,Zambia,5764
+1047,1047,Kashi,China,284712
+1048,1048,Kasongo,Congo Democratic Republic,56564
+1049,1049,Kasongo-Lunda,Congo Democratic Republic,20499
+1050,1050,Katha,Myanmar,39214
+1051,1051,Katherine,Australia,10337
+1052,1052,Makemo,French Polynesia,867
+1053,1053,Kavieng,Papua New Guinea,15147
+1054,1054,Nchelenge,Zambia,24308
+1055,1055,Kayes,Mali,100583
+1056,1056,Letlhakane,Botswana,19021
+1057,1057,Keetmanshoop,Namibia,15593
+1058,1058,Kendari,Indonesia,249407
+1059,1059,Keng Tung,Myanmar,70438
+1060,1060,Kenge,Congo Democratic Republic,37772
+1061,1061,New Orleans,USA,454207
+1062,1062,Kennewick,USA,63593
+1063,1063,Kenora,Canada,13412
+1064,1064,Kerema,Papua New Guinea,5749
+1065,1065,Khabarovsk,Russia,576745
+1066,1066,Khanty-Mansiysk,Russia,60468
+1067,1067,Kharabali,Russia,18202
+1068,1068,Kharan,Pakistan,31542
+1069,1069,Khash,Iran,73912
+1070,1070,Yuzhno-Sakhalinsk,Russia,176919
+1071,1071,Khorixas,Namibia,12357
+1072,1072,Khorug,Tajikistan,32646
+1073,1073,Khuzdar,Pakistan,149715
+1074,1074,Waku-Kungo,Angola,10949
+1075,1075,Kibaya,Tanzania,5194
+1076,1076,Kidal,Mali,11800
+1077,1077,Kimbe,Papua New Guinea,19788
+1078,1078,Kingaroy,Australia,8782
+1079,1079,Kingston,Norfolk Island,890
+1080,1080,Lamu,Kenya,26024
+1081,1081,Lubumbashi,Congo Democratic Republic,1425001
+1082,1082,Kirakira,Solomon Islands,1146
+1083,1083,Kirov,Russia,457355
+1084,1084,Kiruna,Sweden,17552
+1085,1085,Kisangani,Congo Democratic Republic,547531
+1086,1086,Kishkenekol,Kazakhstan,6489
+1087,1087,Kita,Mali,5918
+1088,1088,Terrace,Canada,20203
+1089,1089,Kitti,Micronesia,7531
+1090,1090,Kiunga,Papua New Guinea,12311
+1091,1091,Knoxville,USA,172000
+1092,1092,Kodinsk,Russia,15993
+1093,1093,Popondetta,Papua New Guinea,30355
+1094,1094,Kokopo,Papua New Guinea,27654
+1095,1095,Kokstad,South Africa,25831
+1096,1096,Leava,Wallis and Futuna,479
+1097,1097,Kolpashevo,Russia,27690
+1098,1098,Kolwezi,Congo Democratic Republic,940665
+1099,1099,Play Cu,Vietnam,116765
+1100,1100,Petrozavodsk,Russia,264667
+1101,1101,Korla,China,182343
+1102,1102,Kotlas,Russia,58700
+1103,1103,Kostomuksha,Russia,30234
+1104,1104,Kota Baru,Indonesia,55844
+1105,1105,Kotelnich,Russia,26374
+1106,1106,Kouango,Central African Republic,7572
+1107,1107,Koulamoutou,Gabon,16592
+1108,1108,Koundara,Guinea,13944
+1109,1109,Kovdor,Russia,19075
+1110,1110,Zhalainuoer,China,108663
+1111,1111,Krasnoufimsk,Russia,42969
+1112,1112,Krasnovishersk,Russia,18163
+1113,1113,Krasnyy Kut,Russia,14834
+1114,1114,Kua,Tuvalu,527
+1115,1115,Nioro,Mali,73938
+1116,1116,Kuche,China,69197
+1117,1117,Kuching,Malaysia,602113
+1118,1118,Kudymkar,Russia,31491
+1119,1119,Kule,Botswana,840
+1120,1120,Kullorsuaq,Greenland,421
+1121,1121,Slavgorod,Russia,34083
+1122,1122,Kumaka,Guyana,2181
+1123,1123,Tawau,Malaysia,327730
+1124,1124,Kununurra,Australia,5764
+1125,1125,Kupang,Indonesia,296521
+1126,1126,Kupino,Russia,16155
+1127,1127,Kurgan,Russia,342364
+1128,1128,Kurimah,Sudan,20120
+1129,1129,Shumikha,Russia,18309
+1130,1130,Kutum,Sudan,10051
+1131,1131,Kuytun,China,200250
+1132,1132,Perth,Australia,1472075
+1133,1133,Sarh,Chad,104831
+1134,1134,Suhbaatar,Mongolia,24622
+1135,1135,Kyzyl,Russia,109678
+1136,1136,La Crosse,USA,50147
+1137,1137,La Macarena,Colombia,3583
+1138,1138,La Paz,Mexico,173078
+1139,1139,La Rioja,Argentina,167592
+1140,1140,La Ronge,Canada,3021
+1141,1141,La Victoria,Paraguay,5192
+1142,1142,Salekhard,Russia,38446
+1143,1143,Lafayette,USA,112317
+1144,1144,Lagunas,Peru,9409
+1145,1145,Lahad Datu,Malaysia,112640
+1146,1146,Luganville,Vanuatu,13881
+1147,1147,Lake Havasu City,USA,57685
+1148,1148,Nizhnevartovsk,Russia,246763
+1149,1149,Laranjal do Jari,Brazil,31982
+1150,1150,Las'anod,Somalia,35115
+1151,1151,Lasa,China,120488
+1152,1152,Lashio,Myanmar,132880
+1153,1153,Lasqoray,Somalia,7079
+1154,1154,Lata,Solomon Islands,546
+1155,1155,Wichita Falls,USA,100616
+1156,1156,Lazaro Cardenas,Mexico,14680
+1157,1157,Leaf Rapids,Canada,1370
+1158,1158,Masuku,Gabon,43948
+1159,1159,Lelu,Micronesia,4836
+1160,1160,Lensk,Russia,23405
+1161,1161,Ler,Sudan,10662
+1162,1162,Lesosibirsk,Russia,66106
+1163,1163,Lethem,Guyana,720
+1164,1164,Leticia,Colombia,30636
+1165,1165,Lexington,USA,274245
+1166,1166,Lianzhou,China,95359
+1167,1167,Lichinga,Mozambique,112471
+1168,1168,Linhe,China,170937
+1169,1169,Lisala,Congo Democratic Republic,71635
+1170,1170,Xian,China,4091916
+1171,1171,Liwale,Tanzania,19487
+1172,1172,Pointe Noire,Congo,683621
+1173,1173,Lodeynoye Pole,Russia,21943
+1174,1174,Lodja,Congo Democratic Republic,70555
+1175,1175,Lodwar,Kenya,20784
+1176,1176,Loikaw,Myanmar,17553
+1177,1177,Lolua,Tuvalu,616
+1178,1178,London,Kiribati,698
+1179,1179,Longana,Vanuatu,721
+1180,1180,Tyler,USA,92155
+1181,1181,Longyan,China,126068
+1182,1182,Lorengau,Papua New Guinea,5782
+1183,1183,Loreto,Mexico,11480
+1184,1184,Nama,Micronesia,900
+1185,1185,Louisville,USA,241072
+1186,1186,Luang Prabang,Laos,50080
+1187,1187,Luangwa,Zambia,3155
+1188,1188,Luau,Angola,18628
+1189,1189,Lubango,Angola,102919
+1190,1190,Lubao,Congo Democratic Republic,44527
+1191,1191,Lubbock,USA,213587
+1192,1192,Lucapa,Angola,20131
+1193,1193,Luderitz,Namibia,15751
+1194,1194,Mweka,Congo Democratic Republic,51951
+1195,1195,Luga,Russia,40014
+1196,1196,Phalaborwa,South Africa,110494
+1197,1197,Lusambo,Congo Democratic Republic,42819
+1198,1198,Mansa,Zambia,42461
+1199,1199,Luwuk,Indonesia,48935
+1200,1200,Surgut,Russia,305528
+1201,1201,M'banza-Kongo,Angola,25372
+1202,1202,Ma'rib,Yemen,16182
+1203,1203,Mabaruma,Guyana,721
+1204,1204,Mabule,Botswana,1684
+1205,1205,Macapa,Brazil,355725
+1206,1206,Mackay,Australia,77975
+1207,1207,Mackenzie,Canada,4982
+1208,1208,Macon,USA,93755
+1209,1209,Madang,Papua New Guinea,27333
+1210,1210,Madera,Mexico,16345
+1211,1211,Mae Hong Son,Thailand,9580
+1212,1212,Magadan,Russia,93907
+1213,1213,Magdalena,Bolivia,8114
+1214,1214,Mahd ad-Dahab,Saudi Arabia,14424
+1215,1215,Mataura,French Polynesia,907
+1216,1216,Maiao,French Polynesia,353
+1217,1217,Makatea,French Polynesia,99
+1218,1218,Makokou,Gabon,13881
+1219,1219,Owando,Congo,24405
+1220,1220,Wakkanai,Japan,41124
+1221,1221,Onoun,Micronesia,445
+1222,1222,Malakal,Sudan,171116
+1223,1223,Malanje,Angola,87994
+1224,1224,Malhaha,Fiji,234
+1225,1225,Maltahohe,Namibia,2334
+1226,1226,Manaus,Brazil,1642982
+1227,1227,Mananara,Madagascar,42566
+1228,1228,Mandalgovi,Mongolia,15608
+1229,1229,Mangai,Congo Democratic Republic,38001
+1230,1230,Mangaia,Cook Islands,312
+1231,1231,Tanjung Pandan,Indonesia,63161
+1232,1232,Maningrida,Australia,1387
+1233,1233,Pangkalanbuun,Indonesia,39102
+1234,1234,Manokwari,Indonesia,54691
+1235,1235,Manono,Congo Democratic Republic,37831
+1236,1236,Sharya,Russia,24232
+1237,1237,Mao,Chad,18436
+1238,1238,Mar del Plata,Argentina,556477
+1239,1239,Marabba,Sudan,12401
+1240,1240,Maridi,Sudan,14517
+1241,1241,Mariental,Namibia,13807
+1242,1242,Maroantsetra,Madagascar,24645
+1243,1243,Marsabit,Kenya,15583
+1244,1244,Marzuq,Libya,44909
+1245,1245,Matagami,Canada,1973
+1246,1246,Matruh,Egypt,63121
+1247,1247,Matthew Town,Bahamas,450
+1248,1248,Maturin,Venezuela,427848
+1249,1249,Maues,Brazil,22851
+1250,1250,Mawlaik,Myanmar,45209
+1251,1251,Mayo,Canada,570
+1252,1252,Mayor Pablo Lagerenza,Paraguay,1307
+1253,1253,Mbandaka,Congo Democratic Republic,185753
+1254,1254,Mbanza-Ngungu,Congo Democratic Republic,88403
+1255,1255,Mbe,Cameroon,5626
+1256,1256,Meadow Lake,Canada,4211
+1257,1257,Medford,USA,70717
+1258,1258,Medvezhyegorsk,Russia,16611
+1259,1259,Mega,Ethiopia,7044
+1260,1260,Melfi,Chad,5914
+1261,1261,Mendoza,Argentina,883827
+1262,1262,Menongue,Angola,19103
+1263,1263,Mentok,Indonesia,27046
+1264,1264,Merauke,Indonesia,50463
+1265,1265,Mercedes,Argentina,108247
+1266,1266,Mercedes,Argentina,31055
+1267,1267,Mergui,Myanmar,177961
+1268,1268,Meulaboh,Indonesia,35531
+1269,1269,Miandrivazo,Madagascar,21211
+1270,1270,Middelburg,South Africa,18179
+1271,1271,Midelt,Morocco,45530
+1272,1272,Midland,USA,98261
+1273,1273,Mildura,Australia,48600
+1274,1274,Minab,Iran,73718
+1275,1275,Minacu,Brazil,28229
+1276,1276,Mindelo,Cape Verde,72143
+1277,1277,Mineiros,Brazil,39825
+1278,1278,Palmas,Brazil,210453
+1279,1279,Miraflores,Colombia,5020
+1280,1280,Salalah,Oman,166494
+1281,1281,Mirnyy,Russia,28964
+1282,1282,Mirnyy,Russia,40423
+1283,1283,Missoula,USA,64391
+1284,1284,Mitoto-Andei,Kenya,4834
+1285,1285,Mitu,Colombia,6079
+1286,1286,Mizdah,Libya,27023
+1287,1287,Tunduru,Tanzania,37667
+1288,1288,Mkushi,Zambia,12658
+1289,1289,Tete,Mozambique,132415
+1290,1290,Moba,Congo Democratic Republic,30051
+1291,1291,Mobagu,Indonesia,87480
+1292,1292,Mobile,USA,188467
+1293,1293,Nacala,Mozambique,233006
+1294,1294,Mocimboa,Mozambique,28578
+1295,1295,Mocuba,Mozambique,70637
+1296,1296,Mogok,Myanmar,93047
+1297,1297,Mokil,Micronesia,222
+1298,1298,Monroe,USA,51292
+1299,1299,Montepuez,Mozambique,74011
+1300,1300,Moose Factory,Canada,2086
+1301,1301,Moranbah,Australia,8150
+1302,1302,Moree,Australia,8180
+1303,1303,Morehead,Papua New Guinea,2306
+1304,1304,Narsaq,Greenland,1710
+1305,1305,Moron,Mongolia,28117
+1306,1306,Morshansk,Russia,42929
+1307,1307,Mossendjo,Congo,18451
+1308,1308,Mount Gambier,Australia,23304
+1309,1309,Mount Isa,Australia,22561
+1310,1310,Moussoro,Chad,15531
+1311,1311,Moyale,Ethiopia,28097
+1312,1312,Moyynty,Kazakhstan,2006
+1313,1313,Mpanda,Tanzania,75545
+1314,1314,Mpika,Zambia,28948
+1315,1315,Mporokoso,Zambia,3491
+1316,1316,Mumbwa,Zambia,19754
+1317,1317,Muravlenko,Russia,40306
+1318,1318,Murgob,Tajikistan,11008
+1319,1319,Murwara,India,197952
+1320,1320,Mwinilunga,Zambia,14493
+1321,1321,Myitkyina,Myanmar,92543
+1322,1322,Saryshagan,Kazakhstan,4273
+1323,1323,N'Guigmi,Niger,18459
+1324,1324,N'dalatando,Angola,21270
+1325,1325,N'zeto,Angola,19732
+1326,1326,Na'in,Iran,26189
+1327,1327,Nabari,Kiribati,233
+1328,1328,Nabire,Indonesia,45137
+1329,1329,Nacozari,Mexico,12006
+1330,1330,Nadym,Russia,46418
+1331,1331,Nakusp,Canada,1707
+1332,1332,Ulaanbaatar,Mongolia,862842
+1333,1333,Nam Tha,Laos,3326
+1334,1334,Namibe,Angola,82033
+1335,1335,Namorik,Marshall Islands,734
+1336,1336,Nampula,Mozambique,397836
+1337,1337,Sanming,China,211410
+1338,1338,Nanpu,China,60393
+1339,1339,Napuka,French Polynesia,226
+1340,1340,Narrabri,Australia,7134
+1341,1341,Naryan-Mar,Russia,17856
+1342,1342,Nassau,Cook Islands,47
+1343,1343,Requena,Peru,20873
+1344,1344,Navirai,Brazil,37248
+1345,1345,Naze,Japan,41042
+1346,1346,Ndele,Central African Republic,11966
+1347,1347,Necochea,Argentina,80906
+1348,1348,Negele,Ethiopia,51576
+1349,1349,Neiafu,Tonga,4348
+1350,1350,Nelidovo,Russia,25087
+1351,1351,Nenjiang,China,87429
+1352,1352,Nerchinsk,Russia,15240
+1353,1353,Neryungri,Russia,66299
+1354,1354,Sao Tome,Sao Tome and Principe,63772
+1355,1355,Ngaoundere,Cameroon,244009
+1356,1356,Ngukurr,Australia,944
+1357,1357,Ngulu,Micronesia,30
+1358,1358,Nhulunbuy,Australia,3131
+1359,1359,Nikolayevsk-na-Amure,Russia,26713
+1360,1360,Uruacu,Brazil,30181
+1361,1361,Niyala,Sudan,532183
+1362,1362,Nizhneudinsk,Russia,38431
+1363,1363,Nola,Central African Republic,27651
+1364,1364,Norman Wells,Canada,1055
+1365,1365,Northam,Australia,5794
+1366,1366,Nouadhibou,Mauritania,80984
+1367,1367,Nouakchott,Mauritania,731242
+1368,1368,Nova Andradina,Brazil,32312
+1369,1369,Novouzensk,Russia,16953
+1370,1370,Novyy Urengoy,Russia,94157
+1371,1371,Noyabrsk,Russia,98942
+1372,1372,Nsanje,Malawi,22513
+1373,1373,Nueva Gerona,Cuba,20329
+1374,1374,Nukuoro,Micronesia,370
+1375,1375,Vahitahi,French Polynesia,131
+1376,1376,Nushki,Pakistan,28308
+1377,1377,Ny-Alesund,Svalbard and Jan Mayen,41
+1378,1378,Nyagan,Russia,51982
+1379,1379,Nyandoma,Russia,22034
+1380,1380,Petauke,Zambia,20388
+1381,1381,Yambio,Sudan,41216
+1382,1382,Oriximina,Brazil,36794
+1383,1383,Obo,Central African Republic,13112
+1384,1384,Renukut,India,64828
+1385,1385,Odienne,Ivory Coast,51283
+1386,1386,Picos,Brazil,58496
+1387,1387,Ofu,American Samoa,247
+1388,1388,Ojinaga,Mexico,22482
+1389,1389,Windhoek,Namibia,277349
+1390,1390,Okakarara,Namibia,5358
+1391,1391,Okha,Russia,26102
+1392,1392,Olgij,Mongolia,30483
+1393,1393,Omboue,Gabon,1705
+1394,1394,Omoka,Cook Islands,165
+1395,1395,Ondorhaan,Mongolia,14837
+1396,1396,Williams Lake,Canada,14484
+1397,1397,Onega,Russia,22461
+1398,1398,Ooma,Kiribati,111
+1399,1399,Opuwo,Namibia,4880
+1400,1400,Oqsuqtooq,Canada,1140
+1401,1401,Oranjemund,Namibia,8538
+1402,1402,Oranjestad,Aruba,30710
+1403,1403,Ormara,Pakistan,13321
+1404,1404,Ornskoldsvik,Sweden,27566
+1405,1405,Ostashkov,Russia,19203
+1406,1406,Ostersund,Sweden,42830
+1407,1407,Otjiwarongo,Namibia,21603
+1408,1408,Ouadda,Central African Republic,5539
+1409,1409,Tera,Niger,21680
+1410,1410,Ouarzazate,Morocco,57867
+1411,1411,Ouesso,Congo,24346
+1412,1412,Oum Hadjer,Chad,19704
+1413,1413,Padang Sidempuan,Indonesia,101024
+1414,1414,Palangka Raya,Indonesia,186360
+1415,1415,San Antonio de Pale,Equatorial Guinea,4279
+1416,1416,Palu,Indonesia,294739
+1417,1417,Pangai,Tonga,1742
+1418,1418,Pangkal Pinang,Indonesia,126910
+1419,1419,Pangnirtung,Canada,1328
+1420,1420,Pangoa,Peru,6695
+1421,1421,Panzhihua,China,462953
+1422,1422,Paracatu,Brazil,72412
+1423,1423,Paragominas,Brazil,71831
+1424,1424,Santa Fe,Argentina,472682
+1425,1425,Parintins,Brazil,66025
+1426,1426,Parnaiba,Brazil,140604
+1427,1427,Parras,Mexico,32491
+1428,1428,Pasni,Pakistan,33862
+1429,1429,Pechora,Russia,45264
+1430,1430,Pedro Juan Caballero,Paraguay,68480
+1431,1431,Pek,Laos,5273
+1432,1432,Singkawang,Indonesia,103329
+1433,1433,Pemba,Mozambique,111342
+1434,1434,Pittsburgh,USA,316272
+1435,1435,Pensacola,USA,53652
+1436,1436,Rosario,Argentina,1176177
+1437,1437,Pestovo,Russia,15889
+1438,1438,Petropavlovsk-Kamchatskiy,Russia,183721
+1439,1439,Petrovsk-Zabaykalskiy,Russia,19420
+1440,1440,Phan Thiet,Vietnam,163861
+1441,1441,Phongsaly,Laos,14365
+1442,1442,Pingelap,Micronesia,549
+1443,1443,Pingliang,China,109327
+1444,1444,Pirates Well,Bahamas,214
+1445,1445,Poli,Cameroon,5860
+1446,1446,Pontes e Lacerda,Brazil,29736
+1447,1447,Pontianak,Indonesia,459042
+1448,1448,Porangatu,Brazil,32619
+1449,1449,Poronaysk,Russia,16264
+1450,1450,Whyalla,Australia,19271
+1451,1451,Port Blair,India,115105
+1452,1452,Port Hardy,Canada,4632
+1453,1453,Port Hedland,Australia,14271
+1454,1454,Port Keats,Australia,1347
+1455,1455,Port Lincoln,Australia,11182
+1456,1456,Port Moresby,Papua New Guinea,289861
+1457,1457,Port Stanley,Falkland Islands,2269
+1458,1458,Sept-Iles,Canada,22304
+1459,1459,Port-Gentil,Gabon,111655
+1460,1460,Portland,USA,62882
+1461,1461,Porto Velho,Brazil,312847
+1462,1462,Poso,Indonesia,48707
+1463,1463,Pousat,Cambodia,55870
+1464,1464,Pozo Colorado,Paraguay,1900
+1465,1465,Prescott,USA,41432
+1466,1466,Presidencia Roque Saenz Pena,Argentina,83272
+1467,1467,Prieska,South Africa,11203
+1468,1468,Primavera do Leste,Brazil,81391
+1469,1469,Prince George,Canada,65376
+1470,1470,Prince Rupert,Canada,14719
+1471,1471,Providencia,Colombia,2482
+1472,1472,Rikitea,French Polynesia,1104
+1473,1473,Puerto Ayacucho,Venezuela,53658
+1474,1474,Puerto Ayora,Ecuador,9057
+1475,1475,San Cristobal,Ecuador,6270
+1476,1476,Puerto Leguizamo,Colombia,9390
+1477,1477,Trelew,Argentina,94623
+1478,1478,Tambopata,Peru,39828
+1479,1479,Puerto Penasco,Mexico,34545
+1480,1480,Puerto Quijarro,Bolivia,10746
+1481,1481,Pukapuka,French Polynesia,213
+1482,1482,Reao,French Polynesia,364
+1483,1483,Punta Arenas,Chile,117861
+1484,1484,Pyramid Point,Kiribati,51
+1485,1485,Qa'en,Iran,42476
+1486,1486,Qalat-e Gilzay,Afghanistan,12491
+1487,1487,Qandahar,Afghanistan,401395
+1488,1488,Qardo,Somalia,39897
+1489,1489,Qeqertarsuatsiaat,Greenland,260
+1490,1490,Xining,China,770872
+1491,1491,Quelimane,Mozambique,193492
+1492,1492,Quesnel,Canada,13798
+1493,1493,Qui Nhon,Vietnam,213845
+1494,1494,Quincy,USA,39549
+1495,1495,Quirinopolis,Brazil,32325
+1496,1496,Qujing,China,147749
+1497,1497,Raduzhnyy,Russia,47825
+1498,1498,Rafaela,Argentina,90303
+1499,1499,Rafai,Central African Republic,13559
+1500,1500,Rafhah,Saudi Arabia,47605
+1501,1501,Raga,Sudan,3766
+1502,1502,Tauhunu,Cook Islands,66
+1503,1503,Rangiroa,French Polynesia,2647
+1504,1504,Ranyah,Saudi Arabia,20336
+1505,1505,Rapa,French Polynesia,480
+1506,1506,Rapid City,USA,62302
+1507,1507,Raroia,French Polynesia,245
+1508,1508,Raychikhinsk,Russia,23503
+1509,1509,Redding,USA,93865
+1510,1510,Redencao,Brazil,66133
+1511,1511,Rehoboth,Namibia,21335
+1512,1512,Remanso,Brazil,23059
+1513,1513,San Borja,Bolivia,20449
+1514,1514,Richmond,USA,189498
+1515,1515,Rio Branco,Brazil,266362
+1516,1516,Rio Cuarto,Argentina,154719
+1517,1517,Rio Gallegos,Argentina,87366
+1518,1518,Rio Verde,Brazil,126978
+1519,1519,Riqqan,Algeria,34776
+1520,1520,Robore,Bolivia,9820
+1521,1521,Rochester,USA,98227
+1522,1522,Rockhampton,Australia,66250
+1523,1523,Rolim de Moura,Brazil,38907
+1524,1524,Roma,Australia,5471
+1525,1525,Roreti,Kiribati,1161
+1526,1526,Sao Gabriel,Brazil,55893
+1527,1527,Roswell,USA,43788
+1528,1528,Roto,Cook Islands,72
+1529,1529,Rumah,Saudi Arabia,18984
+1530,1530,Rumbik,Sudan,32776
+1531,1531,Rundu,Namibia,62256
+1532,1532,Ruteng,Indonesia,35155
+1533,1533,Rzhev,Russia,61770
+1534,1534,Sabha,Libya,130244
+1535,1535,Sabzevar,Iran,234916
+1536,1536,Saint Anthony,Canada,2437
+1537,1537,Saint George,USA,63952
+1538,1538,Saint-Augustin,Canada,3975
+1539,1539,Saint-Georges,French Guiana,2828
+1540,1540,Sajnsand,Mongolia,29386
+1541,1541,Sakakah,Saudi Arabia,134204
+1542,1542,Santa Maria,Cape Verde,18183
+1543,1543,Salina,USA,45715
+1544,1544,Salinas,Brazil,25634
+1545,1545,Saravan,Laos,5618
+1546,1546,Sampit,Indonesia,67866
+1547,1547,San Andres,Colombia,59816
+1548,1548,San Angelo,USA,88143
+1549,1549,San Felipe,Mexico,15876
+1550,1550,San Fernando,Mexico,29609
+1551,1551,San Fernando,Venezuela,79168
+1552,1552,Trinidad,Bolivia,86511
+1553,1553,San Jose,Bolivia,9889
+1554,1554,San Juan,Argentina,453641
+1555,1555,San Luis,Argentina,189917
+1556,1556,San Matias,Bolivia,6570
+1557,1557,San Rafael,Argentina,110183
+1558,1558,San Ramon,Bolivia,6919
+1559,1559,San-Pedro,Ivory Coast,207663
+1560,1560,Sandakan,Malaysia,419498
+1561,1561,Santa Ana,Bolivia,12424
+1562,1562,Santa Ana,Peru,25346
+1563,1563,Santa Luzia,Brazil,23233
+1564,1564,Santa Maria,Brazil,253142
+1565,1565,Santa Maria da Vitoria,Brazil,23592
+1566,1566,Santa Rosa,Argentina,113838
+1567,1567,Santa Rosa,Bolivia,4689
+1568,1568,Santa Rosalia,Mexico,12167
+1569,1569,Santana do Araguaia,Brazil,28409
+1570,1570,Santiago,Brazil,46898
+1571,1571,Santiago del Estero,Argentina,361619
+1572,1572,Santo Antonio,Sao Tome and Principe,1214
+1573,1573,Santo Tomas,Peru,4166
+1574,1574,Sanya,China,150208
+1575,1575,Sao Miguel do Oeste,Brazil,27339
+1576,1576,Sarakhs,Iran,49541
+1577,1577,Saravan,Iran,65422
+1578,1578,Sibu,Malaysia,204484
+1579,1579,Sarkand,Kazakhstan,76940
+1580,1580,Sarurah,Saudi Arabia,67260
+1581,1581,Sarykamys,Kazakhstan,4057
+1582,1582,Saurimo,Angola,40253
+1583,1583,Savannah,USA,124898
+1584,1584,Tamale,Ghana,375402
+1585,1585,Savissivik,Greenland,84
+1586,1586,Say-Utes,Kazakhstan,1582
+1587,1587,Sayak,Kazakhstan,4447
+1588,1588,Sayansk,Russia,46143
+1589,1589,Segezha,Russia,33074
+1590,1590,Ulan-Ude,Russia,360619
+1591,1591,Tarakan,Indonesia,99004
+1592,1592,Sembe,Congo,3169
+1593,1593,Sena Madureira,Brazil,21312
+1594,1594,Senanga,Zambia,10154
+1595,1595,Senmonorom,Cambodia,8155
+1596,1596,Serenje,Zambia,8797
+1597,1597,Settlement,Northern Mariana Islands,8
+1598,1598,Severobaykalsk,Russia,25615
+1599,1599,Shache,China,83832
+1600,1600,Shahdol,India,92125
+1601,1601,Shahr-e Babak,Iran,55509
+1602,1602,Shakhunya,Russia,21469
+1603,1603,Shalkar,Kazakhstan,29802
+1604,1604,Shieli,Kazakhstan,30101
+1605,1605,Shaowu,China,113642
+1606,1606,Shihezi,China,581955
+1607,1607,Shivapuri,India,168734
+1608,1608,Turgay,Kazakhstan,5169
+1609,1609,Shubarkol,Kazakhstan,1221
+1610,1610,Shyganak,Kazakhstan,2403
+1611,1611,Sibut,Central African Republic,35345
+1612,1612,Siguiri,Guinea,43459
+1613,1613,Sikasso,Mali,149742
+1614,1614,Simao,China,71938
+1615,1615,Sinop,Brazil,107686
+1616,1616,Sioux City,USA,82863
+1617,1617,Sioux Falls,USA,143534
+1618,1618,Sirjan,Iran,218610
+1619,1619,Snow Lake,Canada,1196
+1620,1620,Sola,Vanuatu,1196
+1621,1621,Sonoita,Mexico,9894
+1622,1622,Sorong,Indonesia,129079
+1623,1623,Ukhta,Russia,101796
+1624,1624,Sovetskaya Gavan,Russia,29493
+1625,1625,Yugorsk,Russia,31096
+1626,1626,Springbok,South Africa,10408
+1627,1627,Springfield,USA,150128
+1628,1628,Sri Aman,Malaysia,28191
+1629,1629,Stueng Traeng,Cambodia,28862
+1630,1630,Sumbawa,Indonesia,53487
+1631,1631,Sumbe,Angola,33213
+1632,1632,Sungaipenuh,Indonesia,102826
+1633,1633,Surt,Libya,133896
+1634,1634,Swan Hill,Australia,9262
+1635,1635,Syktyvkar,Russia,230136
+1636,1636,Syracuse,USA,140793
+1637,1637,Tabas,Iran,53522
+1638,1638,Tabernacle,Saint Kitts and Nevis,786
+1639,1639,Tadine,New Caledonia,7579
+1640,1640,Tahe,China,61008
+1641,1641,Tailandia,Brazil,53529
+1642,1642,Takaroa,French Polynesia,1324
+1643,1643,Talawdi,Sudan,13419
+1644,1644,Tallahassee,USA,154114
+1645,1645,Taltal,Chile,10172
+1646,1646,Tamanrasat,Algeria,76060
+1647,1647,Tambura,Sudan,9679
+1648,1648,Tan Tan,Morocco,63142
+1649,1649,Tana River,Kenya,18350
+1650,1650,Tandil,Argentina,105155
+1651,1651,Tanjung Redeb,Indonesia,51890
+1652,1652,Tanout,Niger,15465
+1653,1653,Tanrake,Tuvalu,377
+1654,1654,Taoudenni,Mali,3011
+1655,1655,Tara,Russia,27025
+1656,1656,Tashtagol,Russia,22588
+1657,1657,Tatakoto,French Polynesia,260
+1658,1658,Tatarsk,Russia,24858
+1659,1659,Tatlis,Saudi Arabia,6787
+1660,1660,Taunggyi,Myanmar,162396
+1661,1661,Tavda,Russia,39089
+1662,1662,Tawkar,Sudan,22690
+1663,1663,Tayma',Saudi Arabia,27938
+1664,1664,Tayshet,Russia,37515
+1665,1665,Tefe,Brazil,44711
+1666,1666,Tennant Creek,Australia,3860
+1667,1667,Teofilo Otoni,Brazil,101116
+1668,1668,Ternate,Indonesia,102839
+1669,1669,Terre Haute,USA,56544
+1670,1670,Tessalit,Mali,2825
+1671,1671,The Pas,Canada,6057
+1672,1672,Thompson,Canada,12261
+1673,1673,Thunder Bay,Canada,98237
+1674,1674,Tibati,Cameroon,37103
+1675,1675,Tignere,Cameroon,4454
+1676,1676,Tigoa,Solomon Islands,216
+1677,1677,Tijiqjah,Mauritania,17662
+1678,1678,Timimun,Algeria,51735
+1679,1679,Tinbadgah,Mauritania,24852
+1680,1680,Tinduf,Algeria,44058
+1681,1681,Tinghir,Morocco,37195
+1682,1682,Tingrela,Ivory Coast,40401
+1683,1683,Tintane,Mauritania,16799
+1684,1684,Toboali-Rias,Indonesia,34285
+1685,1685,Tobolsk,Russia,93887
+1686,1686,Tocache,Peru,30061
+1687,1687,Tocantinopolis,Brazil,24215
+1688,1688,Tocopilla,Chile,24837
+1689,1689,Tole,Kazakhstan,16320
+1690,1690,Toliary,Madagascar,118290
+1691,1691,Tombouctou,Mali,32414
+1692,1692,Tome-Acu,Brazil,35384
+1693,1693,Tongliao,China,264119
+1694,1694,Tongren,China,91354
+1695,1695,Zunyi,China,484980
+1696,1696,Tonj,Sudan,17927
+1697,1697,Torit,Sudan,20288
+1698,1698,Tosoncengel,Mongolia,9532
+1699,1699,Zwedru,Liberia,26062
+1700,1700,Tres Arroyos,Argentina,47210
+1701,1701,Trincomalee,Sri Lanka,111878
+1702,1702,Troebratskiy,Kazakhstan,2891
+1703,1703,Tsabong,Botswana,8818
+1704,1704,Tsaratanana,Madagascar,17256
+1705,1705,Tshela,Congo Democratic Republic,39766
+1706,1706,Tshikapa,Congo Democratic Republic,276120
+1707,1707,Tshwaane,Botswana,216
+1708,1708,Tual,Indonesia,40001
+1709,1709,Tubarjal,Saudi Arabia,40859
+1710,1710,Tubou,Fiji,576
+1711,1711,Tubruq,Libya,124342
+1712,1712,Tucuman,Argentina,792365
+1713,1713,Tucupita,Venezuela,52295
+1714,1714,Zaysan,Kazakhstan,17443
+1715,1715,Tuktoyaktuk,Canada,980
+1716,1716,Tulun,Russia,51173
+1717,1717,Tununirusiq,Canada,865
+1718,1718,Tunxi,China,77278
+1719,1719,Turabah,Saudi Arabia,23641
+1720,1720,Turayf,Saudi Arabia,41499
+1721,1721,Turbat,Pakistan,76627
+1722,1722,Tureia,French Polynesia,276
+1723,1723,Turkmenbasi,Turkmenistan,68519
+1724,1724,Twin Falls,USA,39383
+1725,1725,Tynda,Russia,36421
+1726,1726,Uchquduq,Uzbekistan,33328
+1727,1727,Ulaangom,Mongolia,28434
+1728,1728,Uliastaj,Mongolia,26493
+1729,1729,Umea,Sweden,74613
+1730,1730,Umm Kaddadah,Sudan,11204
+1731,1731,Umm Lajj,Saudi Arabia,34590
+1732,1732,Umm al-Hammam,Saudi Arabia,15592
+1733,1733,Umtata,South Africa,78729
+1734,1734,Unai,Brazil,61103
+1735,1735,Upington,South Africa,72198
+1736,1736,Uray,Russia,40207
+1737,1737,Urdzhar,Kazakhstan,14694
+1738,1738,Uruara,Brazil,23637
+1739,1739,Ushuaia,Argentina,60914
+1740,1740,Usinsk,Russia,44704
+1741,1741,Ust-Ilimsk,Russia,100124
+1742,1742,Ust-Kut,Russia,47618
+1743,1743,Utirik,Marshall Islands,439
+1744,1744,Uwayl,Sudan,39428
+1745,1745,Vaiaku,Tuvalu,4835
+1746,1746,Valdosta,USA,45909
+1747,1747,Valle de la Pascua,Venezuela,90569
+1748,1748,Vao,New Caledonia,1883
+1749,1749,Velsk,Russia,26144
+1750,1750,Venado Tuerto,Argentina,73295
+1751,1751,Victoria,Mexico,274187
+1752,1752,Victoria,Seychelles,22611
+1753,1753,Victoria,USA,62296
+1754,1754,Viedma,Argentina,49490
+1755,1755,Vila,Vanuatu,37141
+1756,1756,Vilhena,Brazil,65986
+1757,1757,Visby,Sweden,21973
+1758,1758,Vorkuta,Russia,78442
+1759,1759,Vredendal,South Africa,15157
+1760,1760,Vyazemskiy,Russia,15085
+1761,1761,Wadi Halfa,Sudan,15338
+1762,1762,Waingapu,Indonesia,49655
+1763,1763,Wajir,Kenya,48189
+1764,1764,an-Na'mah,Mauritania,37415
+1765,1765,Wanning,China,65871
+1766,1766,Washington,Kiribati,1223
+1767,1767,Waterloo,USA,65260
+1768,1768,Watsa,Congo Democratic Republic,24891
+1769,1769,Waw,Sudan,131823
+1770,1770,Wawa,Canada,3507
+1771,1771,Weyburn,Canada,9325
+1772,1772,Whitehorse,Canada,20340
+1773,1773,Willowmore,South Africa,7106
+1774,1774,Wood Buffalo,Canada,41554
+1775,1775,Wotho,Marshall Islands,190
+1776,1776,Xafun,Somalia,11137
+1777,1777,Xarardere,Somalia,2058
+1778,1778,Xichang,China,127982
+1779,1779,Xilinhaote,China,123198
+1780,1780,Xinguara,Brazil,27316
+1781,1781,Xingyi,China,119717
+1782,1782,Xiongzhou,China,81206
+1783,1783,Xique-Xique,Brazil,36109
+1784,1784,Zhangjiakou,China,726070
+1785,1785,Yabelo,Ethiopia,18689
+1786,1786,Yakima,USA,89815
+1787,1787,Yakole,Central African Republic,10968
+1788,1788,Yakutsk,Russia,216588
+1789,1789,Yanan,China,108243
+1790,1790,Yanbu,Saudi Arabia,212616
+1791,1791,Yangambi,Congo Democratic Republic,36074
+1792,1792,Yaren,Nauru,4587
+1793,1793,Yasnyy,Russia,16971
+1794,1794,Ye,Myanmar,57248
+1795,1795,Yellowknife,Canada,15748
+1796,1796,Yemva,Russia,16293
+1797,1797,Yendi,Ghana,43449
+1798,1798,Yershov,Russia,23630
+1799,1799,Yet,Somalia,8597
+1800,1800,Yining,China,263627
+1801,1801,Yirol,Sudan,11898
+1802,1802,Yulara,Australia,4020
+1803,1803,Yulin,China,91487
+1804,1804,Yunjinghong,China,62842
+1805,1805,Zagora,Morocco,35448
+1806,1806,Zahedan,Iran,570389
+1807,1807,Zalinjay,Sudan,29260
+1808,1808,Zambezi,Zambia,7140
+1809,1809,Zarafshon,Uzbekistan,64433
+1810,1810,Zeya,Russia,26738
+1811,1811,Zhambyl,Kazakhstan,1308
+1812,1812,Zhangye,China,96817
+1813,1813,Zharkent,Kazakhstan,34431
+1814,1814,Zheleznogorsk-Ilimskiy,Russia,28247
+1815,1815,Zhenhai,China,74831
+1816,1816,Zhob,Pakistan,51346
+1817,1817,Zhympity,Kazakhstan,6282
+1818,1818,Zuunharaa,Mongolia,19093
+1819,1819,ad-Dabbah,Sudan,11939
+1820,1820,ad-Dahlah,Western Sahara,67468
+1821,1821,ad-Du'ayn,Sudan,225569
+1822,1822,al-'Ayn,United Arab Emirates,426985
+1823,1823,al-'Ayun,Western Sahara,188084
+1824,1824,al-'Ula,Saudi Arabia,30491
+1825,1825,al-'Uwayqilah,Saudi Arabia,12225
+1826,1826,al-Bad',Saudi Arabia,11632
+1827,1827,al-Badi' as-Samali,Saudi Arabia,6646
+1828,1828,al-Bayda,Yemen,43468
+1829,1829,al-Fasir,Sudan,264734
+1830,1830,al-Faw,Sudan,8540
+1831,1831,al-Fulah,Sudan,11455
+1832,1832,al-Gaydah,Yemen,4543
+1833,1833,al-Guli'ah,Algeria,38008
+1834,1834,al-Ha'it,Saudi Arabia,6522
+1835,1835,al-Hanakiyah,Saudi Arabia,15060
+1836,1836,al-Hurmah,Saudi Arabia,24873
+1837,1837,al-Kufrah,Libya,47919
+1838,1838,al-Madinah,Saudi Arabia,975218
+1839,1839,al-Mukalla,Yemen,307033
+1840,1840,al-Quway'iyah,Saudi Arabia,19182
+1841,1841,al-Wahat-al-Bahriyah,Egypt,30266
+1842,1842,al-Wajh,Saudi Arabia,27304
+1843,1843,an-Nuhud,Sudan,114226
+1844,1844,ar-Rank,Sudan,27579
+1845,1845,ar-Rutbah,Iraq,23050
+1846,1846,ar-Ruwaysid,Jordan,5456
+1847,1847,as-Samarah,Western Sahara,42056
+1848,1848,as-Sullayyil,Saudi Arabia,24689
+1849,1849,at-Tuwal,Saudi Arabia,6559
